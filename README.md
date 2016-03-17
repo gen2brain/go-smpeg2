@@ -18,7 +18,7 @@ Installation
 Example
 -------
 
-[plaympeg.go](https://github.com/gen2brain/go-smpeg2/blob/master/examples/plaympeg/plaympeg.go)
+    [plaympeg.go](https://github.com/gen2brain/go-smpeg2/blob/master/examples/plaympeg/plaympeg.go)
 
 
 License
